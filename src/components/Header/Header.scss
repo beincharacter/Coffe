@@ -1,0 +1,10 @@
+@import '../../Base.scss';
+
+#main_app_header {
+    height: 73px;
+    font-family: map-get($fonts, salsa);
+    nav > ul > li {
+        cursor: pointer;
+    }
+    
+}
