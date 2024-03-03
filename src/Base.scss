@@ -8,7 +8,13 @@ $fonts: (
   poppins: 'Poppins'
 );
 
+$colors: (
+  dark: '#432010',
+  golden: '#DDB772'
+);
+
 .App {
+  color: #432010;
 }
 
 .abrilFatface {
